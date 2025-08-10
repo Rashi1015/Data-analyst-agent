@@ -10,15 +10,6 @@ This project is an AI-powered data analyst agent that can answer complex data qu
 - **Visualization:** Generates charts (scatterplots, bar charts, line charts) and returns them as base64-encoded images.
 - **Flexible Input:** Accepts questions and data files via API.
 
-## Example Questions
-
-See [`questions.txt`](questions.txt) for sample prompts, including:
-- Counting $2bn movies released before 2000 from Wikipedia data.
-- Finding the earliest film grossing over $1.5bn.
-- Calculating correlations and generating regression plots.
-- Analyzing Indian High Court judgment data with DuckDB.
-- Performing sales analytics and generating charts from `sample-sales.csv`.
-
 ## Usage
 
 ### 1. Install Dependencies

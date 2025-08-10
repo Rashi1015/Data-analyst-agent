@@ -23,8 +23,6 @@ pip install -r requirements.txt
 Create a `.env` file in the project root with your API keys:
 
 ```
-API_KEY=your_openai_or_aipipe_api_key
-OCR_API_KEY=your_ocr_space_api_key
 gemini_api=your_google_gemini_api_key
 gemini_api_2=your_second_google_gemini_api_key
 ```

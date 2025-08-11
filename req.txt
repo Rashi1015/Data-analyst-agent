@@ -69,7 +69,7 @@ openai==1.79.0
 pandas==2.2.3
 passlib==1.7.4
 pdfkit==1.0.0
-Pillow==10.3.0
+Pillow
 platformdirs==4.0.0
 pluggy==1.6.0
 puremagic==1.29

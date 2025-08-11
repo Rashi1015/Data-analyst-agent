@@ -2,6 +2,8 @@ services:
   - type: web
     name: my-python-app
     env: python
+    python:
+      version: 3.11.9
     buildCommand: "pip install --upgrade pip && pip install -r req.txt"
     startCommand: "gunicorn my_app:app"
     plan: free

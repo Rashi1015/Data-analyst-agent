@@ -1,3 +1,4 @@
+# A blueprint for a Python web service
 services:
   - type: web
     name: my-python-app
